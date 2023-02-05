@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Learn Geometry with AR</string>
+    <string name="app_logo">App Logo</string>
+    <string name="start_learning">Start Learning</string>
+    <string name="quiz">Quiz</string>
+    <string name="cone">Cone</string>
+    <string name="cube">Cube</string>
+    <string name="cuboid">Cuboid</string>
+    <string name="cylinder">Cylinder</string>
+    <string name="sphere">Sphere</string>
+    <string name="learn_geometry_with_ar">Learn Geometry with AR</string>
+    <string name="profile">Profile</string>
+    <string name="follow_us">Follow us</string>
+    <string name="rate_us">Rate us</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="submit">Submit</string>
+    <string name="log_out">Log Out</string>
+    <string name="load_the_solid">Load the solid</string>
+    <string name="solid">solid</string>
+    <string name="view_in_ar">View in AR</string>
+<!--    <string name="default_web_client_id" translatable="false">49584326105-c9f36216jfgn017fs4ciq1dprs2ms5d1.apps.googleusercontent.com</string>-->
+</resources>
